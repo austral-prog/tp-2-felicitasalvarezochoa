@@ -10,6 +10,6 @@ def change():
     print(f"\nVuelto\n")
     print("Pesos:")
     print(pesos)
-    print("Centavos")
+    print("Centavos:")
     cent= int((vuelto - pesos)*100)
     print(cent)
